@@ -7,9 +7,9 @@ To create a recommendation engine that predicts the likeliness of a user liking 
 ### Data Used:
 * The MovieLens dataset.
 * Collected by the GroupLens Research Project at the University of Minnesota. It consists of:
-** 100,000 ratings (1-5) from 943 users on 1682 movies
-** Demographic info for the users
-** Genre information of movies
+ * 100,000 ratings (1-5) from 943 users on 1682 movies
+ * Demographic info for the users
+ * Genre information of movies
 
 ## Approach:
 There are broadly two types of recommender engines – Content Based and Collaborative Filtering
