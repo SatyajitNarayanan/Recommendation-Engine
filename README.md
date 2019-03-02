@@ -15,12 +15,12 @@ To create a recommendation engine that predicts the likeliness of a user liking 
 There are broadly two types of recommender engines – Content Based and Collaborative Filtering
 * Content Based algorithms 
 * Collaborative Filtering algorithm: Further, there are 2 types of collaborative filtering algorithms:
-** User-User Collaborative filtering 
-** Item-Item Collaborative filtering
+  * User-User Collaborative filtering 
+  * Item-Item Collaborative filtering
 
 * Predictions are made for both:
-** Existing Users
-** New User
+  * Existing Users
+  * New User
 
 ## Features incorporated
 
