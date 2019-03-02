@@ -18,7 +18,7 @@ There are broadly two types of recommender engines – Content Based and Collabo
   * User-User Collaborative filtering 
   * Item-Item Collaborative filtering
 
-* Predictions are made for both:
+* Predictions are made using Collaborative Filtering method for both:
   * Existing Users
   * New User
 
