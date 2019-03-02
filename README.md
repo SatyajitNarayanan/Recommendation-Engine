@@ -4,7 +4,7 @@ Created a recommendation engine as a part of the Python Programming course at NC
 ## Problem:
 To create a recommendation engine that predicts the likeliness of a user liking a movie based on past user behavior and data on movies
 
-## Data Used:
+### Data Used:
 * The MovieLens dataset.
 * Collected by the GroupLens Research Project at the University of Minnesota. It consists of:
 ** 100,000 ratings (1-5) from 943 users on 1682 movies
