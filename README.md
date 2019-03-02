@@ -1,5 +1,5 @@
 # Recommendation-Engine
-Created a recommendation engine as a part of the Python Programming course at NC State
+Created a recommendation engine as a part of the Python Programming course at NC State. To view the Jupyter notebook click: https://bit.ly/2ILJYcL
 
 ## Problem:
 To create a recommendation engine that predicts the likeliness of a user liking a movie based on past user behavior and data on movies
