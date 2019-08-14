@@ -26,3 +26,8 @@ There are broadly two types of recommender engines – Content Based and Collabo
 
 Hybrid prediction score
 * (1- α) x User Prediction + α x Movie Prediction
+
+A video showing its working:
+
+[![Recommendation Engine Working](http://img.youtube.com/vi/gARLtNfgFmQ/0.jpg)](<iframe width="560" height="315" src="https://www.youtube.com/embed/gARLtNfgFmQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+
