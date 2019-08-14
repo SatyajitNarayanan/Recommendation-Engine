@@ -29,5 +29,5 @@ Hybrid prediction score
 
 A video showing its working:
 
-[![Recommendation Engine Working](http://img.youtube.com/vi/gARLtNfgFmQ/0.jpg)](<iframe width="560" height="315" src="https://www.youtube.com/embed/gARLtNfgFmQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+[![Recommendation Engine Working](http://img.youtube.com/vi/gARLtNfgFmQ/0.jpg)](https://www.youtube.com/embed/gARLtNfgFmQ)
 
